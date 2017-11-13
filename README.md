@@ -8,7 +8,6 @@ La idea es incluir los archivos que exporta FAUST en el proyecto principal. Esto
   - DspFaust.cpp
   - java_interface_wrap.cpp
   - DspFaust.h
-  
   - dsp_faust.java
   - DspFaust.java
   - dsp_faustJNI.java
