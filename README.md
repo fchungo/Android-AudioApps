@@ -1,9 +1,11 @@
-# Android Project, contiene:
+# Android Project
+
+Contiene:
   
   - Módulo de audio del Envelope Generator generado en FAUST.
   - Boton para disparar la señal (Trigger).
   
-La idea es incluir los archivos que exporta FAUST en el proyecto principal. Estos archivos son:
+La idea es incluir los archivos de procesamiento de audio que exporta FAUST en el proyecto principal (Synth3F). Estos archivos son:
 
   - DspFaust.cpp
   - java_interface_wrap.cpp
