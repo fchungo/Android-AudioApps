@@ -12,3 +12,4 @@ La idea es incluir los archivos que exporta FAUST en el proyecto principal. Esto
   - DspFaust.java
   - dsp_faustJNI.java
   
+Los mismos están en app/src/main/cpp y app/src/main/java/com respectivamente.
